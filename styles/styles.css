@@ -71,6 +71,11 @@ main {
     color: var(--paragraph-color-on-white);
 }
 
+main img{
+    width: 150px;
+    height: auto;
+    ...
+}
 .attribute {
     font-size: 1em;
     padding: 15px;
